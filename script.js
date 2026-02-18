@@ -1,4 +1,5 @@
 // Módulo de formulario de artículos
+//Gael Jovani Lopez Garcia 11916199
 const ArticleForm = (() => {
     // Variables privadas
     let form, submitBtn, successMessage, formSection, newArticleBtn;
